@@ -1,9 +1,11 @@
 {
   "dependencies": {
+    "axios": "^0.9.1",
+    "gulp": "github:gulpjs/gulp#4ed9a4a3275559c73a396eff7e1fde3824951ebb",
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
     "react-router": "^2.4.0",
-    "axios": "^0.9.1"
+    "websocket": "^1.0.23"
   },
   "devDependencies": {
     "react-addons-test-utils": "^15.0.1",
